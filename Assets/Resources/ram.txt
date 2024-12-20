@@ -1,0 +1,4 @@
+MEMORIA RAM (RANDOM ACCESS MEMORY)
+La RAM e' la memoria temporanea del computer, quella che lavora in tempo reale per permettere al sistema operativo e ai programmi di funzionare senza intoppi. Piu' RAM e' disponibile, maggiore sara' la capacita' del PC di gestire piu' applicazioni contemporaneamente, come browser web, editor di documenti e software di grafica. La RAM e' fondamentale per garantire che le operazioni siano rapide e fluide: quando il computer ha abbastanza memoria, tutto sembra rispondere istantaneamente.
+La velocita' della RAM, misurata in MHz, influisce sulla velocita' di trasferimento dei dati. Inoltre, l’utilizzo di moduli RAM compatibili con il sistema e con frequenze supportate dalla scheda madre e' essenziale. La memoria RAM e' uno degli elementi piu' semplici da aggiornare, permettendo di migliorare facilmente le prestazioni del sistema, rendendola cruciale per gaming, editing multimediale e altre applicazioni che richiedono molte risorse.
+

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: SSD-HHD
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: Cosa memorizza un disco di archiviazione?
+    replies:
+    - Dati, sistemi operativi e programm
+    - Solo il sistema operativo
+    - ' Solo i file di programma'
+    - Solo file temporanei
+    correctReplyInedex: 0
+  - questionText: "Qual e\u2019 la principale differenza tra HDD e SSD?"
+    replies:
+    - "Gli HDD sono piu\u2019 costosi"
+    - "Gli SSD sono piu\u2019 veloci"
+    - Gli SSD hanno parti mobili
+    - Gli HDD non possono essere utilizzati per il sistema operativo
+    correctReplyInedex: 1
+  - questionText: "Per cosa e\u2019 particolarmente utile un SSD?"
+    replies:
+    - Per archiviare grandi quantita' di dati
+    - Per backup a lungo termine
+    - Per installare il sistema operativo
+    - Per archiviare file audio
+    correctReplyInedex: 2
+  - questionText: Cosa offre un SSD NVMe rispetto a un SSD SATA?
+    replies:
+    - Maggiore capacita'
+    - Minore velocita' di lettura
+    - Minore affidabilita'
+    - Prestazioni superiori
+    correctReplyInedex: 3
+  - questionText: "Qual e\u2019 la principale caratteristica degli HDD?"
+    replies:
+    - Piatti magnetici rotanti
+    - Nessuna parte mobile
+    - Velocita'  di lettura elevata
+    - Connessione tramite PCIe
+    correctReplyInedex: 0
+  - questionText: "Qual e\u2019 la combinazione ideale per un buon equilibrio tra
+      velocita\u2019 e capacita\u2019 di archiviazione?"
+    replies:
+    - Solo SSD
+    - "SSD per velocita\u2019 e HDD per capacita\u2019"
+    - Solo HDD
+    - "SSD SATA per velocita\u2019 e SSD NVMe per capacita\u2019"
+    correctReplyInedex: 1
+  - questionText: "Qual e\u2019 il principale vantaggio degli SSD rispetto agli HDD?"
+    replies:
+    - "Costo piu\u2019 basso"
+    - Maggiore durata nel tempo
+    - "Velocita\u2019 di lettura e scrittura superiore"
+    - "Maggiore capacita\u2019 di archiviazione"
+    correctReplyInedex: 2
+  - questionText: "Cosa determina la velocita\u2019 di un disco di archiviazione?"
+    replies:
+    - La temperatura di funzionamento
+    - La marca del produttore
+    - La dimensione del disco
+    - La connessione e la tecnologia (SATA o PCIe)
+    correctReplyInedex: 3
+  - questionText: "Quale tipo di disco di archiviazione offre le prestazioni piu\u2019
+      elevate?"
+    replies:
+    - SSD NVMe
+    - SSD SATA
+    - HDD con maggiore capacita'
+    - "HDD con velocita\u2019 di rotazione piu\u2019 alta"
+    correctReplyInedex: 0
+  - questionText: "Per quale motivo un disco HDD e\u2019 generalmente piu\u2019 economico
+      di un SSD?"
+    replies:
+    - "Perche\u2019 e\u2019 meno affidabile nel tempo"
+    - "Perche\u2019 utilizza piatti magnetici rotanti"
+    - "Perche\u2019 ha una velocita\u2019 di lettura piu\u2019 alta"
+    - "Perche\u2019 utilizza una tecnologia avanzata senza parti mobili"
+    correctReplyInedex: 1
+  category: SSD/HHD

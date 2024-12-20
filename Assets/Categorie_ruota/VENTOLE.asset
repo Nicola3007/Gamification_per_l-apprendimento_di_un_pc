@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: VENTOLE
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: "Cosa e\u2019 fondamentale per garantire prestazioni ottimali del
+      sistema di raffreddamento nel tempo?"
+    replies:
+    - Una corretta manutenzione
+    - L'overclocking dei componenti
+    - L'installazione di un software di monitoraggio
+    - "L'aumento della velocita\u2019 delle ventole"
+    correctReplyInedex: 0
+  - questionText: "Quale componente e\u2019 direttamente influenzato dalla disposizione
+      delle ventole nel case?"
+    replies:
+    - "La velocita\u2019 di clock della CPU"
+    - Il flusso d'aria complessivo
+    - "La qualita\u2019 grafica del PC"
+    - "La capacita\u2019 di archiviazione"
+    correctReplyInedex: 1
+  - questionText: "Perch\xE9 e\u2019 importante considerare la compatibilit\xE0 del
+      sistema di raffreddamento con il case ei componenti scelti?"
+    replies:
+    - Per aumentare la durata della batteria
+    - Per migliorare la qualita' della connessione Internet
+    - Per garantire prestazioni ottimali e prevenire problemi di spazio
+    - Per ridurre i costi di produzione
+    correctReplyInedex: 2
+  - questionText: "Quale dei seguenti e\u2019 un aspetto critico per evitare danni
+      causa dal surriscaldamento?"
+    replies:
+    - "Aumentare la velocita\u2019 della memoria RAM"
+    - Utilizzare un SSD invece di un HDD
+    - "Avere un processore con piu\u2019 core"
+    - Un sistema di raffreddamento efficace
+    correctReplyInedex: 3
+  - questionText: "Qual e\u2019 il principale vantaggio del raffreddamento a liquido
+      rispetto a quello ad aria?"
+    replies:
+    - "Maggiore capacita\u2019 di dissipazione del calore"
+    - Minore rumore durante il funzionamento
+    - Minore costo iniziale
+    - "Maggiore semplicit\xE0 nella manutenzione"
+    correctReplyInedex: 0
+  - questionText: Cosa fa un sistema di raffreddamento?
+    replies:
+    - "Aumenta la velocita\u2019 del processore"
+    - Mantiene le temperature dei componenti sotto controllo
+    - Riduce il consumo energetico
+    - "Migliora la qualita\u2019 grafica"
+    correctReplyInedex: 1
+  - questionText: Cosa utilizza il raffreddamento ad aria per dissipare il calore?
+    replies:
+    - Liquido refrigerante
+    - Gel conduttivo
+    - Ventole e dissipatori metallici
+    - Tecnologia di raffreddamento attivo
+    correctReplyInedex: 2
+  - questionText: Cosa offre un sistema di raffreddamento a liquido rispetto a uno
+      ad aria?
+    replies:
+    - Maggiore rumore
+    - Minore efficienza
+    - Maggiore complessita' nella manutenzione
+    - Prestazioni superiori e design accattivante
+    correctReplyInedex: 3
+  - questionText: Cosa influisce sul flusso d'aria nel case del PC?
+    replies:
+    - La disposizione delle ventole
+    - La potenza della CPU
+    - "La quantita\u2019 di RAM"
+    - La dimensione del case
+    correctReplyInedex: 0
+  - questionText: "Qual e\u2019 il principale vantaggio dei dissipatori di calore?"
+    replies:
+    - Riducono la potenza del processore
+    - Aiutano a trasferire il calore lontano dai componenti critici
+    - "Aumentano la velocita\u2019 di clock della CPU"
+    - "Migliorano la qualita\u2019 video"
+    correctReplyInedex: 1
+  category: ALIMENTAZIONE E RAFFREDDAMENTO

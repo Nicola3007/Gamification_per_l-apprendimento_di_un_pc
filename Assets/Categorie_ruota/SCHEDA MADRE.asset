@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: SCHEDA MADRE
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: 'Qual e'' la funzione principale della scheda madre? '
+    replies:
+    - Permettere ai componenti hardware di comunicare tra loro
+    - Salvare i dati del sistema operativo
+    - Fornire solo energia al processore
+    - Proteggere i componenti hardware dalla polvere
+    correctReplyInedex: 0
+  - questionText: "Quali funzionalita\u2019 aggiuntive possono avere le schede madri
+      moderne?"
+    replies:
+    - ' Memorizzare dati a lungo termine'
+    - " Integrazione Wi-Fi, Bluetooth e audio di alta qualit\xE0"
+    - Alimentare solo il processore
+    - Fornire connessione diretta a Internet senza router
+    correctReplyInedex: 1
+  - questionText: Cosa influenza il chipset di una scheda madre?
+    replies:
+    - La quantita'  di RAM installata
+    - La dimensione fisica del PC
+    - Le funzionalita'  disponibili
+    - "La qualita\u2019 della scheda video"
+    correctReplyInedex: 2
+  - questionText: "Perche\u2019 la presa della scheda madre e\u2019 importante?"
+    replies:
+    - Determina la quantita' di porte USB disponibil
+    - Definisce la velocita'  della connessione internet
+    - ' Deve essere compatibile con il processore scelto'
+    - Servire solo per fissare la scheda madre nel case
+    correctReplyInedex: 2
+  - questionText: "Qual e\u2019 un vantaggio delle porte presenti sulla scheda madre?"
+    replies:
+    - Aumentano la velocita'  del processore
+    - Gestiscono il raffreddamento del PC
+    - Hanno sempre funzioni di archiviazione
+    - Consentono di collegare periferiche esterne come mouse e tastiere
+    correctReplyInedex: 3
+  category: SCHEDA MADRE

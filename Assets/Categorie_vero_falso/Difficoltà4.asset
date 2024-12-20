@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: "Difficolt\xE04"
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: La scheda madre regola il flusso di energia tra i componenti hardware
+      del computer
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: La CPU utilizza esclusivamente la RAM per eseguire calcoli e operazioni
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "La qualita\u2019 del suono dipende esclusivamente dalla scheda
+      madre, non dalla scheda audio"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "Un SSD con tecnologia NVMe e\u2019 piu\u2019 veloce di uno con
+      tecnologia SATA"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Un alimentatore con certificazione 80 Plus e'  sempre pi\xF9 affidabile
+      di uno senza certificazione"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: La GPU influisce sulle prestazioni del monitor solo quando si utilizza
+      una risoluzione superiore a 1080p
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "La posizione delle ventole nel case non ha alcun effetto sul flusso
+      d\u2019aria"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: La scheda madre deve essere scelta in base al socket compatibile
+      con la CPU
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "La memoria RAM e\u2019 piu\u2019 costosa di solito rispetto alla
+      memoria di archiviazione"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: Il raffreddamento a liquido richiede sempre una pompa per funzionare
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  category: 

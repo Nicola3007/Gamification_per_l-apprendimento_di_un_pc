@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: CPU
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: "Qual e\u2019 la funzione principale del processore?"
+    replies:
+    - Eseguire operazioni logiche e matematiche
+    - Gestire la memoria
+    - Riprodurre suoni
+    - Gestire la rete
+    correctReplyInedex: 0
+  - questionText: " Cosa influisce direttamente sulla velocita\u2019 del sistema?"
+    replies:
+    - La RAM
+    - La CPU
+    - Il disco rigido
+    - La scheda video
+    correctReplyInedex: 1
+  - questionText: Cosa determina la CPU in un sistema?
+    replies:
+    - La durata della batteria
+    - "La qualita\u2019 dell'immagine"
+    - La velocita' e l'efficienza
+    - La connessione Internet
+    correctReplyInedex: 2
+  - questionText: "Cosa ottimizzano i modelli piu\u2019 recenti di CPU?"
+    replies:
+    - Il consumo energetico
+    - "La qualita\u2019 video"
+    - La connessione Wi-Fi
+    - La gestione delle applicazioni pesanti
+    correctReplyInedex: 0
+  - questionText: "Cosa influisce sulla velocita\u2019 di elaborazione di un processore?"
+    replies:
+    - "La quantita\u2019 di RAM"
+    - La frequenza di clock
+    - "La velocita\u2019 di Internet"
+    - La risoluzione dello schermo
+    correctReplyInedex: 1
+  - questionText: Cosa permette il multitasking in un processore?
+    replies:
+    - "La velocita\u2019 di clock"
+    - La dimensione della cache
+    - Il numero di core
+    - Il tipo di memoria
+    correctReplyInedex: 2
+  - questionText: "Cos'e\u2019 necessario per fare overclocking?"
+    replies:
+    - Una scheda video potente
+    - Una memoria RAM veloce
+    - Un sistema operativo avanzato
+    - Una scheda madre compatibile e un raffreddamento efficace
+    correctReplyInedex: 3
+  - questionText: "Cosa permette a un processore di gestire piu\u2019 attivita\u2019
+      contemporaneamente?"
+    replies:
+    - Il numero di core
+    - La velocita' di clock
+    - La dimensione della cache
+    - La potenza di raffreddamento
+    correctReplyInedex: 0
+  - questionText: Cosa influisce direttamente sulle prestazioni del sistema durante
+      l'editing video?
+    replies:
+    - La connessione Internet
+    - Il processore
+    - La scheda audio
+    - La memoria RAM
+    correctReplyInedex: 1
+  - questionText: Perche' e' importante avere un buon sistema di raffreddamento per
+      la CPU?
+    replies:
+    - Per ridurre il consumo energetico
+    - Per aumentare la velocita'  di clock
+    - Per evitare il surriscaldamento e garantire prestazioni stabili
+    - Per migliorare la qualita'  grafica
+    correctReplyInedex: 2
+  category: CPU

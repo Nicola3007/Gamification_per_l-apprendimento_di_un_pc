@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginPlayFab.unity
+    guid: 22c620930c7b3e44c9065e311e8d0762
+  - enabled: 1
+    path: Assets/Scenes/PersonalArea.unity
+    guid: 20e3142ad7850c64daa8f264b48a06b2
+  - enabled: 1
+    path: Assets/Scenes/HomePage.unity
+    guid: 6917f7cc60f83ff4bac96db796d3fef4
+  - enabled: 1
+    path: Assets/Scenes/Gioco_ruota.unity
+    guid: 8cbc8184659e984478ac52c6431a218a
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 4d274d2c541a1f545ad098d228f2f6cc
+  - enabled: 1
+    path: Assets/Scenes/VeroFalsoScene.unity
+    guid: cf18c6d12ca76fe4d8bdc39267f1792e
+  - enabled: 1
+    path: Assets/Scenes/SchedeInformative.unity
+    guid: 50618883178b9554b81820a8dd8b7acd
+  - enabled: 1
+    path: Assets/Scenes/Assemblaggio.unity
+    guid: 25d0641cdc76e5543a204e80da6aac27
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

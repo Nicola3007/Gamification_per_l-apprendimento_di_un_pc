@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: "Difficolt\xE05"
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: "Una scheda video dedicata e\u2019 indispensabile per qualsiasi
+      computer da ufficio"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "Le schede madri di fascia alta offrono funzionalit\xE0 che migliorano
+      l\u2019overclock della CPU"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: Le configurazioni RAID possono combinare SSD e HDD per prestazioni
+      ottimizzate
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: La CPU non ha bisogno di un sistema di raffreddamento se non viene
+      sottoposta a carichi pesanti
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: I case con pannelli in vetro temperato offrono un raffreddamento
+      migliore rispetto ai case chius
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "Un alimentatore sovradimensionato puo\u2019 causare un aumento
+      significativo del consumo energetico"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "L\u2019assenza di RAM adeguata costringe il sistema a utilizzare
+      il disco di archiviazione come memoria temporanea"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: Una scheda video integrata non supporta la tecnologia ray tracing
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "L\u2019uso di ventole con LED RGB aumenta la temperatura complessiva
+      del sistema"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: Una scheda madre puo' supportare solo CPU della stessa marca (Intel
+      o AMD)
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  category: 

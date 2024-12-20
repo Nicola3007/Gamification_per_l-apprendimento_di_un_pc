@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: "Difficolt\xE03"
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: Una scheda madre con Wi-Fi integrato non necessita di un adattatore
+      aggiuntivo per connettersi a reti wireless
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Una CPU con piu\u2019 core e\u2019 sempre piu\u2019 veloce di
+      una con meno core"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "La GPU contribuisce anche all\u2019elaborazione di calcoli complessi
+      al di fuori della grafica"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "L\u2019uso di un SSD per il sistema operativo non influisce sui
+      tempi di avvio del PC"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "Il raffreddamento a liquido e\u2019 completamente silenzioso rispetto
+      a quello ad aria"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: Un alimentatore efficiente genera meno calore e consuma meno energia
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: I case moderni includono spesso filtri antipolvere per mantenere
+      puliti i componenti interni
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "La velocita\u2019 della RAM non ha alcun impatto sulle prestazioni
+      complessive del PC"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "Un HDD e\u2019 ideale per conservare file a lungo termine rispetto
+      a un SSD"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Un HDD e\u2019 ideale per conservare file a lungo termine rispetto
+      a un SSD"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  category: 

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: "Difficolt\xE02"
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: "La scelta della scheda madre non influisce sulla compatibilita\u2019
+      con futuri aggiornamenti del sistema"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: La CPU elabora miliardi di operazioni al secondo per eseguire le
+      funzioni del computer
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Piu\u2019 RAM disponibile consente al computer di eseguire piu\u2019
+      programmi contemporaneamente"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "La GPU e\u2019 piu\u2019 importante della CPU per l\u2019elaborazione
+      di applicazioni di modellazione 3D"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Gli HDD sono sempre piu\u2019 costosi degli SSD"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "Il case non ha alcuna influenza sul flusso d\u2019aria e sulla
+      temperatura del sistema"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: Il raffreddamento ad aria utilizza ventole e dissipatori metallici
+      per dissipare il calore
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Un alimentatore sottodimensionato puo\u2019 causare instabilita' 
+      o spegnimenti improvvisi del PC"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Una scheda video con supporto per ray tracing puo\u2019 migliorare
+      la qualita\u2019 grafica dei giochi"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "La RAM e\u2019 piu'  lenta della memoria di archiviazione come
+      SSD o HDD"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  category: 

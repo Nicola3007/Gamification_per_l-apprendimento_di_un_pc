@@ -1,0 +1,4 @@
+repository "Gamification_per_l-apprendimento_di_un_pc/Gamification_per_l-apprendimento_di_un_pc@20067342733011@cloud"
+  path "/"
+    br "/main"
+    co "/main"

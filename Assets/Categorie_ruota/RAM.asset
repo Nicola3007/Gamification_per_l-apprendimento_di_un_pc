@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: RAM
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: "Qual e\u2019 il ruolo principale della RAM?"
+    replies:
+    - Fornire memoria temporanea per il funzionamento dei programmi
+    - Conservare i file per lunghi periodi
+    - Aumentare la durata della batteria del PC
+    - Alimentare la scheda video
+    correctReplyInedex: 0
+  - questionText: "Come si misura la velocita\u2019 della RAM?"
+    replies:
+    - Secondi
+    - MHz
+    - m/s
+    - Volt
+    correctReplyInedex: 1
+  - questionText: "Cosa succede se un computer ha piu\u2019 RAM disponibile?"
+    replies:
+    - "La scheda madre si consuma piu\u2019 rapidamente"
+    - Il sistema operativo occupa piu' spazio
+    - "Puo\u2019 gestire piu'  applicazioni contemporaneamente"
+    - "Il processore si surriscalda piu\u2019 facilmente"
+    correctReplyInedex: 2
+  - questionText: "Qual e\u2019 una caratteristica che rende la RAM facile da aggiornare?"
+    replies:
+    - "Non necessita di compatibilita\u2019 con la scheda madre"
+    - Non richiede slot sulla scheda madre
+    - Non ha limiti di capacita'
+    - I moduli RAM possono essere aggiunti facilmente al sistema
+    correctReplyInedex: 3
+  - questionText: "Per quale tipo di attivita\u2019 e\u2019 fondamentale avere molta
+      RAM?"
+    replies:
+    - Gaming ed editing multimediale
+    - Navigazione web semplice
+    - Scrivere documenti di testo
+    - Gestire periferiche come stampanti
+    correctReplyInedex: 0
+  category: RAM

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: "Difficolt\xE01"
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: "La scheda madre e\u2019 il componente che permette la comunicazione
+      tra i diversi componenti hardware"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "La CPU e\u2019 il componente principale responsabile della grafica
+      del computer"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: "Gli SSD sono generalmente piu\u2019 veloci degli HDD"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "La RAM e\u2019 una memoria permanente che conserva i dati anche
+      dopo lo spegnimento del PC"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  - questionText: Un case protegge i componenti interni del computer e ne migliora
+      il raffreddamento
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "L\u2019alimentatore e\u2019 responsabile di fornire energia a
+      tutti i componenti del computer"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Le schede madri moderne possono includere funzionalita\u2019 come
+      Wi-Fi e Bluetooth integrati"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "La scheda video gestisce tutto cio\u2019 che riguarda la grafica
+      sullo schermo"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: Un alimentatore modulare permette di collegare solo i cavi necessari
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 0
+  - questionText: "Il sistema di raffreddamento a liquido e\u2019 meno efficace di
+      quello ad aria"
+    replies:
+    - VERO
+    - FALSO
+    correctReplyInedex: 1
+  category: 

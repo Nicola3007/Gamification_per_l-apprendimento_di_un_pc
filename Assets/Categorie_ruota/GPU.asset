@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b723961aa71c35741bfdd9d0f04eebef, type: 3}
+  m_Name: GPU
+  m_EditorClassIdentifier: 
+  question:
+  - questionText: " Qual e\u2019 la funzione principale della scheda video? "
+    replies:
+    - Gestire la grafica
+    - Salvare dati
+    - Riprodurre suoni
+    - Gestire la rete
+    correctReplyInedex: 0
+  - questionText: "Qual e\u2019 un altro nome per la scheda video?"
+    replies:
+    - CPU
+    - GPU
+    - RAM
+    - SSD
+    correctReplyInedex: 1
+  - questionText: " Cos'e\u2019 il ray tracing nella grafica?"
+    replies:
+    - Elaborazione del suono
+    - Compressione dei dati
+    - Tecnica di rendering realistico
+    - Gestione del colore
+    correctReplyInedex: 2
+  - questionText: Cosa gestisce la memoria video (VRAM)?
+    replies:
+    - Suoni e musica
+    - Dati di sistema
+    - Connessione Internet
+    - Texture ad alta risoluzione
+    correctReplyInedex: 3
+  - questionText: "Per cosa e\u2019 preferibile una GPU dedicata?"
+    replies:
+    - Applicazioni grafiche intensive
+    - Compiti di base
+    - Navigazione web
+    - Elaborazione testi
+    correctReplyInedex: 0
+  - questionText: ' Cosa serve per collegare la scheda video alla scheda madre?'
+    replies:
+    - Porta USB
+    - Slot PCIe
+    - Cavo HDMI
+    - Connettore SATA
+    correctReplyInedex: 1
+  - questionText: Cosa ottimizza l'intelligenza artificiale nella scheda video?
+    replies:
+    - Memoria
+    - Connessione di rete
+    - Prestazioni
+    - Risoluzione grafica
+    correctReplyInedex: 2
+  - questionText: " Perche\u2019 una GPU dedicata e\u2019 preferibile per applicazioni
+      grafiche intensive?"
+    replies:
+    - "Perche\u2019 consuma meno energia"
+    - " Perche\u2019 e\u2019 piu'  economica"
+    - "Perche\u2019 occupa meno spazio"
+    - "Perche\u2019 offre prestazioni superiori"
+    correctReplyInedex: 3
+  - questionText: Cosa richiede la scheda video per funzionare correttamente?
+    replies:
+    - Un alimentatore potente
+    - Un sistema operativo aggiornato
+    - Una connessione Internet stabile
+    - Un processore veloce
+    correctReplyInedex: 0
+  - questionText: "Qual e\u2019 la differenza principale tra GPU dedicata e GPU integrata?"
+    replies:
+    - La GPU integrata ha piu'  VRAM
+    - "La GPU dedicata e\u2019 piu\u2019  potente"
+    - " La GPU dedicata \xE8 piu' economica"
+    - "La GPU integrata \xE8 piu' veloce"
+    correctReplyInedex: 1
+  category: GPU
